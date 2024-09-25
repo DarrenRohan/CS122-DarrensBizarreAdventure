@@ -1,8 +1,7 @@
-def main():
-  print ('Hello World')
-  print ('Python Programming')
-  print ('Keisankagaku wa omoshiroidesune?')
-if __name__ == '__main__':
-  main()
+# gets number inputs
+num1 = input("Enter number here: ")  
+num2 = input("Enter number here: ") 
+num3 = input("Enter number here: ")
+
   
   
